@@ -1,2 +1,2 @@
-# week3-q1
-WEEK3
+# week3-Q1
+1D ARRAY
